@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlflow/mlruns/0/6316832479c24a94a1f694cdd383afe3/artifacts
+end_time: 1757716483785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6316832479c24a94a1f694cdd383afe3
+run_name: update registered model
+run_uuid: 6316832479c24a94a1f694cdd383afe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757716447101
+status: 3
+tags: []
+user_id: saqli
