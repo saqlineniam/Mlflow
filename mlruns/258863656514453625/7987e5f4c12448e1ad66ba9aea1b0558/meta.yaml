@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlflow/mlruns/258863656514453625/7987e5f4c12448e1ad66ba9aea1b0558/artifacts
+end_time: 1757663804584
+entry_point_name: ''
+experiment_id: '258863656514453625'
+lifecycle_stage: active
+run_id: 7987e5f4c12448e1ad66ba9aea1b0558
+run_name: nimble-penguin-540
+run_uuid: 7987e5f4c12448e1ad66ba9aea1b0558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757663803812
+status: 3
+tags: []
+user_id: saqli

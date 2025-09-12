@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlflow/mlruns/258863656514453625/d5a18efdf6504d98a01b189594f8c0e1/artifacts
+end_time: 1757663834257
+entry_point_name: ''
+experiment_id: '258863656514453625'
+lifecycle_stage: active
+run_id: d5a18efdf6504d98a01b189594f8c0e1
+run_name: intrigued-dove-598
+run_uuid: d5a18efdf6504d98a01b189594f8c0e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757663833593
+status: 3
+tags: []
+user_id: saqli

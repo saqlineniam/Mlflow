@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlflow/mlruns/0/2b2e32e9aeca47f9be07d240c8b0d6e6/artifacts
+end_time: 1757707060745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b2e32e9aeca47f9be07d240c8b0d6e6
+run_name: practice custom model
+run_uuid: 2b2e32e9aeca47f9be07d240c8b0d6e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757707060171
+status: 4
+tags: []
+user_id: saqli

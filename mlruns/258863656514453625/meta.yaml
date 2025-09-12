@@ -1,0 +1,6 @@
+artifact_location: file:///d:/Mlflow/mlruns/258863656514453625
+creation_time: 1757662168680
+experiment_id: '258863656514453625'
+last_update_time: 1757662168680
+lifecycle_stage: active
+name: custom models with pyfunc

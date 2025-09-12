@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlflow/mlruns/258863656514453625/6742d04691624fd488323dbfb435cac6/artifacts
+end_time: 1757663707265
+entry_point_name: ''
+experiment_id: '258863656514453625'
+lifecycle_stage: active
+run_id: 6742d04691624fd488323dbfb435cac6
+run_name: selective-doe-18
+run_uuid: 6742d04691624fd488323dbfb435cac6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757663706530
+status: 3
+tags: []
+user_id: saqli
