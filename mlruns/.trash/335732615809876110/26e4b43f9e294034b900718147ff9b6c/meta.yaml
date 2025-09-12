@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Mlflow/mlruns/335732615809876110/26e4b43f9e294034b900718147ff9b6c/artifacts
+deleted_time: 1757603322427
+end_time: 1757591934982
+entry_point_name: ''
+experiment_id: '335732615809876110'
+lifecycle_stage: deleted
+run_id: 26e4b43f9e294034b900718147ff9b6c
+run_name: respected-whale-455
+run_uuid: 26e4b43f9e294034b900718147ff9b6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757591934851
+status: 3
+tags: []
+user_id: saqli

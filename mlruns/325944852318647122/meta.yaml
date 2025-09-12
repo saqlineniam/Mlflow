@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Mlflow/mlruns/325944852318647122
+creation_time: 1757588755056
+experiment_id: '325944852318647122'
+last_update_time: 1757590356366
+lifecycle_stage: active
+name: Seed Germination Rate
+tags:
+  mlflow.note.content: This is the description for the experiment
+  new-tags: new_tag_updated_with_client
+  new_tags: v1

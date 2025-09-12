@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Mlflow/mlruns/335732615809876110/804a4864f10b4bd2a8c4b055aa77efea/artifacts
+deleted_time: 1757603322427
+end_time: null
+entry_point_name: ''
+experiment_id: '335732615809876110'
+lifecycle_stage: deleted
+run_id: 804a4864f10b4bd2a8c4b055aa77efea
+run_name: abundant-zebra-204
+run_uuid: 804a4864f10b4bd2a8c4b055aa77efea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757592300131
+status: 1
+tags: []
+user_id: unknown

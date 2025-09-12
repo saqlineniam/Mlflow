@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Mlflow/mlruns/148492037114301746/d270fb09d5e243d4b7d82eeb61163ebf/artifacts
+deleted_time: 1757603326011
+end_time: 1757591484022
+entry_point_name: ''
+experiment_id: '148492037114301746'
+lifecycle_stage: deleted
+run_id: d270fb09d5e243d4b7d82eeb61163ebf
+run_name: charming-worm-112
+run_uuid: d270fb09d5e243d4b7d82eeb61163ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757591001219
+status: 3
+tags: []
+user_id: saqli

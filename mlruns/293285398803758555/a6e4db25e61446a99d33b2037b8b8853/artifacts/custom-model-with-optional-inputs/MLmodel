@@ -1,0 +1,28 @@
+artifact_path: custom-model-with-optional-inputs
+flavors:
+  python_function:
+    cloudpickle_version: 2.2.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.12.3
+    streamable: false
+is_signature_from_type_hint: false
+mlflow_version: 2.22.2
+model_size_bytes: 1316
+model_uuid: 1c6cd5f989c546919585db72717aa27b
+prompts: null
+run_id: a6e4db25e61446a99d33b2037b8b8853
+signature:
+  inputs: '[{"type": "double", "name": "sepal length (cm)", "required": true}, {"type":
+    "double", "name": "sepal width (cm)", "required": true}, {"type": "double", "name":
+    "petal length (cm)", "required": true}, {"type": "double", "name": "petal width
+    (cm)", "required": true}, {"type": "double", "name": "optional_column", "required":
+    false}]'
+  outputs: '[{"type": "integer", "name": "species", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-11 23:43:57.063168'

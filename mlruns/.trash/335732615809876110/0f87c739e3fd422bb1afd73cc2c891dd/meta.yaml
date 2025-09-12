@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Mlflow/mlruns/335732615809876110/0f87c739e3fd422bb1afd73cc2c891dd/artifacts
+deleted_time: 1757603322427
+end_time: 1757591925521
+entry_point_name: ''
+experiment_id: '335732615809876110'
+lifecycle_stage: deleted
+run_id: 0f87c739e3fd422bb1afd73cc2c891dd
+run_name: classy-dove-172
+run_uuid: 0f87c739e3fd422bb1afd73cc2c891dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757591923722
+status: 4
+tags: []
+user_id: saqli

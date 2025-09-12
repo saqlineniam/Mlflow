@@ -1,0 +1,30 @@
+artifact_path: rfc
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+is_signature_from_type_hint: false
+mlflow_version: 2.22.2
+model_size_bytes: 181418
+model_uuid: 5df7c264fc7845aeadd02fd6a7679562
+prompts: null
+run_id: 72e7c5d4270947df9bb50625ae7c8c1e
+signature:
+  inputs: '[{"type": "double", "name": "sepal length (cm)", "required": true}, {"type":
+    "double", "name": "sepal width (cm)", "required": true}, {"type": "double", "name":
+    "petal length (cm)", "required": true}, {"type": "double", "name": "petal width
+    (cm)", "required": true}]'
+  outputs: '[{"type": "integer", "name": "species", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-11 17:16:41.216179'

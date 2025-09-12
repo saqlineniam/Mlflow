@@ -1,0 +1,9 @@
+artifact_location: file:///d:/Mlflow/mlruns/560797171355948544
+creation_time: 1757537992738
+experiment_id: '560797171355948544'
+last_update_time: 1757590782916
+lifecycle_stage: deleted
+name: creating-experiments 1
+tags:
+  topic: experiment-management
+  version: v1

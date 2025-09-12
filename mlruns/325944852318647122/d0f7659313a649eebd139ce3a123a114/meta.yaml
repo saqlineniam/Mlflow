@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Mlflow/mlruns/325944852318647122/d0f7659313a649eebd139ce3a123a114/artifacts
+deleted_time: 1757603301679
+end_time: 1757597579331
+entry_point_name: ''
+experiment_id: '325944852318647122'
+lifecycle_stage: deleted
+run_id: d0f7659313a649eebd139ce3a123a114
+run_name: child
+run_uuid: d0f7659313a649eebd139ce3a123a114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757597579155
+status: 3
+tags: []
+user_id: saqli

@@ -1,0 +1,37 @@
+artifact_path: XGBRegressor
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+is_signature_from_type_hint: false
+mlflow_version: 2.22.2
+model_size_bytes: 150022
+model_uuid: 6b9d589d9fb24f96b6112528335b1fb3
+prompts: null
+run_id: e54222476fa54f82b0f176aaffe0a4d6
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "size of each seed (mm)", "required": true},
+    {"type": "double", "name": "weight of each seed (gr)", "required": true}, {"type":
+    "double", "name": "germination days", "required": true}, {"type": "double", "name":
+    "base germination rate", "required": true}, {"type": "double", "name": "base germination
+    potential", "required": false}, {"type": "double", "name": "power (w)", "required":
+    true}]'
+  outputs: '[{"type": "float", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-11 16:11:07.308072'

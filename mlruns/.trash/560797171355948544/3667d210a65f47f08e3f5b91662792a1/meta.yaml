@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Mlflow/mlruns/560797171355948544/3667d210a65f47f08e3f5b91662792a1/artifacts
+deleted_time: 1757590782916
+end_time: 1757538961215
+entry_point_name: ''
+experiment_id: '560797171355948544'
+lifecycle_stage: deleted
+run_id: 3667d210a65f47f08e3f5b91662792a1
+run_name: dashing-swan-755
+run_uuid: 3667d210a65f47f08e3f5b91662792a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757538959168
+status: 3
+tags: []
+user_id: saqli

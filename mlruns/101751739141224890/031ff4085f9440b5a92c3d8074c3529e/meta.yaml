@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlflow/mlruns/101751739141224890/031ff4085f9440b5a92c3d8074c3529e/artifacts
+end_time: 1757625572838
+entry_point_name: ''
+experiment_id: '101751739141224890'
+lifecycle_stage: active
+run_id: 031ff4085f9440b5a92c3d8074c3529e
+run_name: mlflow_practice_signatures
+run_uuid: 031ff4085f9440b5a92c3d8074c3529e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757625572719
+status: 4
+tags: []
+user_id: saqli

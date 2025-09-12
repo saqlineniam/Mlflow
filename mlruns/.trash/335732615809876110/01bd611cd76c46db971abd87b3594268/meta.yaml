@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Mlflow/mlruns/335732615809876110/01bd611cd76c46db971abd87b3594268/artifacts
+deleted_time: 1757603322427
+end_time: 1757591923022
+entry_point_name: ''
+experiment_id: '335732615809876110'
+lifecycle_stage: deleted
+run_id: 01bd611cd76c46db971abd87b3594268
+run_name: indecisive-fawn-756
+run_uuid: 01bd611cd76c46db971abd87b3594268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757591486284
+status: 3
+tags: []
+user_id: saqli
