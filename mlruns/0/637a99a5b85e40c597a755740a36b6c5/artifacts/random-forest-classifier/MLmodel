@@ -1,0 +1,18 @@
+artifact_path: random-forest-classifier
+flavors:
+  python_function:
+    cloudpickle_version: 2.2.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.12.3
+    streamable: false
+mlflow_version: 2.22.2
+model_size_bytes: 2816
+model_uuid: c9df6ed04a654c118018c98dfdee4a2b
+prompts: null
+run_id: 637a99a5b85e40c597a755740a36b6c5
+utc_time_created: '2025-09-12 20:27:49.225344'

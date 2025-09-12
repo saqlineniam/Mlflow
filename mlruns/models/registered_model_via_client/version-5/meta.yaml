@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1757713863310
+current_stage: None
+description: model version created using Mlflow Client
+last_updated_timestamp: 1757713863310
+name: registered_model_via_client
+run_id: b429026e2064414882422e6ab2e4a5b2
+run_link: null
+source: file:///d:/Mlflow/mlruns/0/b429026e2064414882422e6ab2e4a5b2/artifacts
+status: READY
+status_message: null
+storage_location: file:///d:/Mlflow/mlruns/0/b429026e2064414882422e6ab2e4a5b2/artifacts
+user_id: null
+version: 5

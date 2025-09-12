@@ -1,0 +1,24 @@
+artifact_path: model
+flavors:
+  python_function:
+    artifacts:
+      predictions:
+        path: artifacts\New_dataset.xlsx
+        uri: C:\Users\saqli\Desktop\New_dataset.xlsx
+    cloudpickle_version: 2.2.1
+    code: null
+    config:
+      model_name: classifier
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.12.3
+    streamable: false
+mlflow_version: 2.22.2
+model_size_bytes: 71119
+model_uuid: 6d877b867e7849a88188f2807d8519a4
+prompts: null
+run_id: e5575014b3d94090890e3069ffeac826
+utc_time_created: '2025-09-12 21:00:39.049882'

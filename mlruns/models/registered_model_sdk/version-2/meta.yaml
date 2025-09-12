@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1757712659724
+current_stage: None
+description: null
+last_updated_timestamp: 1757712659724
+name: registered_model_sdk
+run_id: b429026e2064414882422e6ab2e4a5b2
+run_link: null
+source: file:///d:/Mlflow/mlruns/0/b429026e2064414882422e6ab2e4a5b2/artifacts/RandomForestClassifier
+status: READY
+status_message: null
+storage_location: file:///d:/Mlflow/mlruns/0/b429026e2064414882422e6ab2e4a5b2/artifacts/RandomForestClassifier
+user_id: null
+version: 2
