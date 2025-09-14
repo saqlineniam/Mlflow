@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1757770371010
+current_stage: None
+description: null
+last_updated_timestamp: 1757770371010
+name: creating version
+run_id: b1f9d78a08614c5ebf4a2a5906a151a3
+run_link: null
+source: file:///d:/Mlflow/mlruns/0/b1f9d78a08614c5ebf4a2a5906a151a3/artifacts/random-forest-model
+status: READY
+status_message: null
+storage_location: file:///d:/Mlflow/mlruns/0/b1f9d78a08614c5ebf4a2a5906a151a3/artifacts/random-forest-model
+user_id: null
+version: 10

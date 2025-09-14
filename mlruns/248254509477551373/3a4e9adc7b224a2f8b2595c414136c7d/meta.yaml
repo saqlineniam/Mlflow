@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Mlflow/mlruns/248254509477551373/3a4e9adc7b224a2f8b2595c414136c7d/artifacts
+deleted_time: 1757861246790
+end_time: 1757860797271
+entry_point_name: ''
+experiment_id: '248254509477551373'
+lifecycle_stage: deleted
+run_id: 3a4e9adc7b224a2f8b2595c414136c7d
+run_name: xgb on seed germination rate
+run_uuid: 3a4e9adc7b224a2f8b2595c414136c7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757860780726
+status: 4
+tags: []
+user_id: saqli

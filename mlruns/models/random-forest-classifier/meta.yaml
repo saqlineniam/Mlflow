@@ -1,8 +1,5 @@
-aliases:
-  Development: '1'
-  candidate: '1'
-  champion: '2'
-creation_timestamp: 1757714450641
-description: this is a random forest classifier
-last_updated_timestamp: 1757716986456
+aliases: {}
+creation_timestamp: 1757763226923
+description: null
+last_updated_timestamp: 1757767041079
 name: random-forest-classifier

@@ -1,0 +1,14 @@
+digest: 427c844b
+name: dataset
+profile: '{"num_rows": 32, "num_elements": 288}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "base germination index",
+  "required": false}, {"type": "double", "name": "base germination potential", "required":
+  false}, {"type": "double", "name": "base germination rate", "required": false},
+  {"type": "double", "name": "gas flow rate (L/min)", "required": false}, {"type":
+  "double", "name": "germination days", "required": false}, {"type": "double", "name":
+  "germination rate", "required": false}, {"type": "double", "name": "power (w)",
+  "required": false}, {"type": "double", "name": "size of each seed (mm)", "required":
+  false}, {"type": "double", "name": "voltage (kV)", "required": false}]}'
+source: '{"tags": {"mlflow.user": "saqli", "mlflow.source.name": "c:\\Users\\saqli\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

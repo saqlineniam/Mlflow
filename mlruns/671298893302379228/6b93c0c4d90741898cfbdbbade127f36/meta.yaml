@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlflow/mlruns/671298893302379228/6b93c0c4d90741898cfbdbbade127f36/artifacts
+end_time: 1757863040955
+entry_point_name: ''
+experiment_id: '671298893302379228'
+lifecycle_stage: active
+run_id: 6b93c0c4d90741898cfbdbbade127f36
+run_name: coldplasma_seed
+run_uuid: 6b93c0c4d90741898cfbdbbade127f36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757862860882
+status: 3
+tags: []
+user_id: saqli

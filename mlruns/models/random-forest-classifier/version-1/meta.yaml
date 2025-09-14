@@ -1,16 +1,14 @@
-aliases:
-- candidate
-- Development
-creation_timestamp: 1757714450729
+aliases: []
+creation_timestamp: 1757763226953
 current_stage: None
-description: updated model version
-last_updated_timestamp: 1757716782439
+description: null
+last_updated_timestamp: 1757763226953
 name: random-forest-classifier
-run_id: 68d3569e63364a1dbb6dbb83f9caaa6b
+run_id: 82f06c201c264c0a950460d118874900
 run_link: null
-source: file:///d:/Mlflow/mlruns/0/68d3569e63364a1dbb6dbb83f9caaa6b/artifacts/RandomForestClassifier
+source: file:///d:/Mlflow/mlruns/0/82f06c201c264c0a950460d118874900/artifacts/random-forest-classifier
 status: READY
 status_message: null
-storage_location: file:///d:/Mlflow/mlruns/0/68d3569e63364a1dbb6dbb83f9caaa6b/artifacts/RandomForestClassifier
+storage_location: file:///d:/Mlflow/mlruns/0/82f06c201c264c0a950460d118874900/artifacts/random-forest-classifier
 user_id: null
 version: 1

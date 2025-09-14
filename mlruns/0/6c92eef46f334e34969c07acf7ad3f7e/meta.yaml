@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlflow/mlruns/0/6c92eef46f334e34969c07acf7ad3f7e/artifacts
+end_time: 1757776445186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c92eef46f334e34969c07acf7ad3f7e
+run_name: rfc_20
+run_uuid: 6c92eef46f334e34969c07acf7ad3f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757776427842
+status: 3
+tags: []
+user_id: saqli

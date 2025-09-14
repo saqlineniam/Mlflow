@@ -1,15 +1,14 @@
-aliases:
-- champion
-creation_timestamp: 1757716483742
+aliases: []
+creation_timestamp: 1757767041079
 current_stage: None
-description: this version is shit
-last_updated_timestamp: 1757716812204
+description: null
+last_updated_timestamp: 1757767041079
 name: random-forest-classifier
-run_id: 6316832479c24a94a1f694cdd383afe3
+run_id: ef0d240963ba4dc3a2a562e9e4cf3a98
 run_link: null
-source: file:///d:/Mlflow/mlruns/0/6316832479c24a94a1f694cdd383afe3/artifacts/RandomForestClassifier
+source: file:///d:/Mlflow/mlruns/0/ef0d240963ba4dc3a2a562e9e4cf3a98/artifacts/random-forest-classifier
 status: READY
 status_message: null
-storage_location: file:///d:/Mlflow/mlruns/0/6316832479c24a94a1f694cdd383afe3/artifacts/RandomForestClassifier
+storage_location: file:///d:/Mlflow/mlruns/0/ef0d240963ba4dc3a2a562e9e4cf3a98/artifacts/random-forest-classifier
 user_id: null
 version: 2

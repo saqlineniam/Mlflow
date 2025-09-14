@@ -1,0 +1,10 @@
+digest: 9ee3540e
+name: dataset
+profile: '{"num_rows": 200, "num_elements": 1000}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "f_0", "required": true},
+  {"type": "double", "name": "f_1", "required": true}, {"type": "double", "name":
+  "f_2", "required": true}, {"type": "double", "name": "f_3", "required": true}, {"type":
+  "integer", "name": "target", "required": true}]}'
+source: '{"tags": {"mlflow.user": "saqli", "mlflow.source.name": "c:\\Users\\saqli\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
