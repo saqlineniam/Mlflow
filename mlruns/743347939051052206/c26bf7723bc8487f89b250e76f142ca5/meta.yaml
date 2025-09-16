@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlflow/mlruns/743347939051052206/c26bf7723bc8487f89b250e76f142ca5/artifacts
+end_time: 1758012171727
+entry_point_name: ''
+experiment_id: '743347939051052206'
+lifecycle_stage: active
+run_id: c26bf7723bc8487f89b250e76f142ca5
+run_name: melodic-jay-303
+run_uuid: c26bf7723bc8487f89b250e76f142ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758012164057
+status: 3
+tags: []
+user_id: saqli
